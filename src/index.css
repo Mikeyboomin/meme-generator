@@ -1,0 +1,79 @@
+.togo {
+  display: inline;
+  vertical-align: middle;
+  width: 35px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.logo-txt {
+  display: inline;
+  font-weight: 600;
+  font-size: 20px;
+  vertical-align: middle;
+  
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Inter;
+}
+
+nav {
+  background-image: linear-gradient(to right, #672280, #A626D3);
+  color: #FFFFFF;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  
+}
+
+.Brand {
+  display: inline;
+  vertical-align: middle;
+  font-size: 12px;
+  float: right;
+  padding-right: 20px;
+  font-weight: 500;
+}
+
+.form-taker {
+  text-align: center;
+  align-items: center;
+}
+
+.gen-btn {
+  /* margin-top: 20px; */
+  padding: 10px 100px 10px 100px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, #672280, #A626D3);
+  color: #FFFFFF;
+  border: 0;
+}
+
+.fa-image {
+  margin-left: 5px;
+}
+
+.input1 {
+  margin-right: 12px;
+  /* padding: 5px 40px 5px 40px; */
+}
+
+.input2 {
+  margin-left: 12px;
+  /* padding: 5px 40px 5px 40px; */
+  
+}
+
+.input1, .input2 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.btm-img {
+  margin-top: 20px;
+  max-width: 100vh;
+}
